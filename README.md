@@ -92,8 +92,7 @@ AI-powered ecological risk dashboard that analyzes wildlife trade records and de
 
 Full-stack cricket analytics platform with player statistics, team analysis, and leaderboard dashboards.
 
-- REST APIs with complex SQL JOIN queries
-- Dynamic routing via React Router
+- Analytical Ashboard with an Interactive UI using SQL JOIN queries
 - Reusable UI components with searchable dashboards
 
 </td>
@@ -152,7 +151,7 @@ Offline hydration monitoring system with event-driven notifications.
 | 🎓 Academic | 🛡️ Certifications | 🎯 Events |
 |:-----------:|:-----------------:|:---------:|
 | CGPA: **9.563 / 10** | NPTEL AR/VR — **Elite (81%)** | Smart India Hackathon (SIH) |
-| School Topper — Core Subjects | | SNUC Hacks |
+| School Topper — Core Subjects | NPTEL Java - **Elite (97%)** | SNUC Hacks |
 | CBSE Class XII: **93.6%** | | Invente |
 | CBSE Class X: **98%** | 
 
